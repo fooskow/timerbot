@@ -1,0 +1,14 @@
+{
+  "name": "timerbot",
+  "version": "0.0.1",
+  "description": "Timed messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "!"
+  },
+  "author": "fooskow",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
